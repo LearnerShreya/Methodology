@@ -4,6 +4,8 @@
 
 Mastering logic in programming isn’t just about memorizing syntax—it's about **thinking like a problem solver**. Here’s a practical, step-by-step approach to develop your logical thinking and problem-solving ability:
 
+🔗 **Recommended Video**: [How to Think in Logic Building – by Apna College](https://www.youtube.com/watch?v=HbNfCM4ilBQ)
+
 ---
 
 ### 1. 🔄 **Understand the Data Flow**
@@ -22,8 +24,6 @@ Start with the **90-10 learning method**:
 
 * 90% from **guided examples or tutorials**, 10% your own effort.
 * Then slowly shift to 80-20, 70-30, 60-40... until you're building on your own (10-90).
-
-🔗 **Recommended Video**: [How to Think in Logic Building – by Apna College](https://www.youtube.com/watch?v=HbNfCM4ilBQ)
 
 📝 *Pro Tip*: After every tutorial, try solving similar problems without help to reinforce the logic.
 
