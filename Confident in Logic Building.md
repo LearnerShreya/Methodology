@@ -71,4 +71,5 @@ Try drawing **flowcharts**, **memory diagrams**, or using tools like [Python Tut
 | Not visualizing       | Draw flow, trace variables, use visuals   |
 | Giving up quickly     | Stick with the process and practice daily |
 
+
 ---
